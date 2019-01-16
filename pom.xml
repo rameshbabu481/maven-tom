@@ -44,7 +44,7 @@
         <artifactId>maven-war-plugin</artifactId>
         <version>2.6</version>
         <configuration>
-         <webXml>src\main\web\webapp\WEB-INF\web.xml</webXml>
+         <webXml>simple-webapp\src\main\webapp\WEB-INF\web.xml</webXml>
          <failOnMissingWebXml>false</failOnMissingWebXml>
          </configuration>
          </plugin>
