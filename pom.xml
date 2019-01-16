@@ -20,16 +20,6 @@
       <version>1.1.1</version>
     </dependency>
     <dependency>
-      <groupId>org.sonatype.mavenbook.multispring</groupId>
-      <artifactId>simple-weather</artifactId>
-      <version>0.8-SNAPSHOT</version>
-    </dependency>
-    <dependency>
-      <groupId>org.sonatype.mavenbook.multispring</groupId>
-      <artifactId>simple-persist</artifactId>
-      <version>0.8-SNAPSHOT</version>
-    </dependency>
-    <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring</artifactId>
       <version>2.0.7</version>
