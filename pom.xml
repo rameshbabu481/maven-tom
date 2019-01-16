@@ -44,8 +44,10 @@
         <artifactId>maven-war-plugin</artifactId>
         <configuration>
          <webXml>webapp\WEB-INF\web.xml</webXml>
+                 <failOnMissingWebXml>false</failOnMissingWebXml>
          </configuration>
          </plugin>
+     
       <plugin>
         <groupId>org.mortbay.jetty</groupId>
         <artifactId>maven-jetty-plugin</artifactId>
